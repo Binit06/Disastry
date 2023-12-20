@@ -1,6 +1,5 @@
 "use client";
 
-import MapperBox from "@/components/DialogBox/Mapper";
 import DialogBox from "@/components/DialogBox/dialog";
 import StateList from "@/components/DialogBox/state";
 import { useEffect, useState } from "react"
@@ -19,7 +18,6 @@ const ModalProvider = () => {
         <>
         <DialogBox />
         <StateList />
-        <MapperBox />
         </>
     )
 }
