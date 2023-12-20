@@ -316,9 +316,6 @@ const PredictionPlayground:React.FC<PredictionPlaygroundProps> = ({data}) => {
                     </div>
                 </div>
             </div>
-            <a href="file:///C:/Users/Admin/Downloads/aboutus.zip/aboutus/index.html" target="_blank" rel="noopener noreferrer">
-                Open in New Tab
-            </a>
         </div>
         </>
     )
