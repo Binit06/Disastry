@@ -6,7 +6,7 @@ export default async function Home() {
     return(
         <div>
             {data.map((items) => (
-                <PredictionPlayground data={items}/>
+                <PredictionPlayground data={items} key={items.id}/>
             ))}
         </div>
     )
