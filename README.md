@@ -22,7 +22,7 @@ Run the Flask Server: Start the Flask server with the following command:
 flask run
 ```
 
-### Ensure Server Runs on Port 3000: Verify that the server is running on port 3000.
+### Ensure Server Runs on Port 5000: Verify that the server is running on port 5000.
 
 ### Now, you are ready to use the application either locally or through the live version.
 
